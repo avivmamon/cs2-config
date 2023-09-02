@@ -12,7 +12,7 @@ This repository contains custom configuration files for Counter-Strike 2. These 
    
 ## Launch Options
 
-To maximize the potential of these configurations, set your CS:GO launch options to:
+To maximize the potential of these configurations, set your launch options to:
 ```
 -dev -novid -freq 144 -refresh 144 -tickrate 128 -maxplayers_override 50 -nojoy -d3d9ex +exec autoexec -tickrate 128 -netconport 21222
 ```
