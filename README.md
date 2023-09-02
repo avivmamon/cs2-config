@@ -1,6 +1,6 @@
 # Counter Strike 2 - Config
 
-This repository contains custom configuration files for Counter-Strike: Global Offensive. These include an `autoexec.cfg` for general gameplay tweaks and a `training.cfg` for practice mode settings.
+This repository contains custom configuration files for Counter-Strike 2. These include an `autoexec.cfg` for general gameplay tweaks and a `training.cfg` for practice mode settings.
 
 ## Installation
 
